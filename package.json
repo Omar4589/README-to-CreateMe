@@ -1,0 +1,22 @@
+{
+  "name": "readme-to-createme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Omar4589/README-to-CreateMe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Omar4589/README-to-CreateMe/issues"
+  },
+  "homepage": "https://github.com/Omar4589/README-to-CreateMe#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
