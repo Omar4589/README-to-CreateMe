@@ -87,7 +87,6 @@ inquirer
         "React",
         "Angular",
         "Materialize",
-        "Node.js",
         "Django",
         "Laravel",
         ".NET Framework",
@@ -105,6 +104,11 @@ inquirer
       type: "input",
       name: "apis",
       message: "Lastly, APIs? List the APIs here:",
+    },
+    {
+      type: "input",
+      name: "other",
+      message: "List any other technologies used.",
     },
     {
       type: "input",
@@ -157,10 +161,7 @@ ${response.tests}
 
 ## Questions <a id="questions"></a>
 
-Github: [${response.github}](https://:${response.github})
-
-
-Email: [${response.email}](mailto:${response.email})
+If you have any questions about this project, please contact the project owner by visiting their GitHub profile at [${response.github}](https://:${response.github}) or by emailing them at [${response.email}](mailto:${response.email}).
 
 ## Tool URL <a id="toolurl"></a>
     
@@ -187,6 +188,10 @@ The following technologies were used to develop ${response.title}:<br>
 <strong>APIs</strong>
 
 ${response.apis}
+
+<strong>Other</strong>
+
+- ${response.other}
 <br>
     
 ## Collaborators <a id="collaborators"></a>
