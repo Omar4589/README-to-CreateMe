@@ -1,11 +1,11 @@
-# sample Title 
+# README to CreateMe 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-<strong>Introducting sample Title!</strong><br>
-sample description sample sample sample blah balfdkslfjsdlkfjlsdjkfljdskljfkdjskfjksdjfksjdkfjksdjfkdsf<br>
+<strong>Introducting README to CreateMe!</strong><br>
+This project generates a README file based on user input using the inquirer and fs node modules. The generated README includes the project's title, description, installation instructions, usage information, contributions guidelines, automated tests description, API list, list of collaborators, license and other metadata about the project.<br>
     
 ## Table Of Contents
 
@@ -21,57 +21,58 @@ sample description sample sample sample blah balfdkslfjsdlkfjlsdjkfljdskljfkdjsk
 
 ## Installation <a id="installation"></a>
 
-instructions 1.lkjsdlfjlskjdfkljdsklfjdks 2.jdfalkjflsjflksjdkfjklsjl 3. dflkasdfjlsdjlfkjslkdjflsjdlk 4. ldjfadjlsjlfjlksdjflkjdslkj 5.dlkfkjajldsjfkjlksdjkfs
+To install this project, first clone this repository to your local machine. Then, navigate to the root directory of the project in your terminal and run the following command to install the required dependencies: `npm install`
 
 ## Usage <a id="usage"></a>
 
-usage lakjflkdjflksjdklfjksld jfdslflkdsj fjdslkfj dsf dsjfldsjlkfjdklsjfkldsjklfjdksjf
+To use this project, navigate to the root directory of the project in your terminal and run the following command: `node index.js` <br> This will start the command line interface where you can input the necessary information to generate the README file.
 
 ## Contributions <a id="contributions"></a>
 
-guidlines.fkldsjflksjdlkfjkldsjfkljdsklfjkdsljfkldsjkfjdskljf sdflkdjsflk djls  1. fdjljfksdjlkfjsdl
+To contribute to this project, please fork this repository, make your changes, and submit a pull request.
 
 ## Tests <a id="tests"></a>
 
-run them
+This project does not have any automated tests included, but you can include testing instructions in the generated README file by filling out the appropriate prompt during the node index.js command.
 
 ## Questions <a id="questions"></a>
 
-Github: [github.com/omar4589](https://:github.com/omar4589)
-
-
-Email: [omar4589@email.com](mailto:omar4589@email.com)
+If you have any questions about this project, please contact the project owner by visiting their GitHub profile at [github.com/omar4589](https://:github.com/omar4589) or by emailing them at [omar4589@hotmail.com](mailto:omar4589@hotmail.com).
 
 ## Tool URL <a id="toolurl"></a>
     
-[omar4589/github.io/README-toCreateMe](https://omar4589/github.io/README-toCreateMe)
+[omar4589.github.io/README-to-CreateMe](https://omar4589.github.io/README-to-CreateMe)
 <br>
 <br>
     
 ## Technologies <a id="technologies"></a>
     
-The following technologies were used to develop sample Title:<br>
+The following technologies were used to develop README to CreateMe:<br>
 <br>
 <strong>Languages</strong>
     
-- HTML,  CSS,  Javascript,  Java,  C++,  C#,  Perl
+- Javascript
     
 <strong>Frameworks</strong>
     
-- Tailwind,  Angular,  Materialize
+- 
     
 <strong>Libraries</strong>
     
-- jQuery,  Day.js,  Inquirer
+- Inquirer
     
 <strong>APIs</strong>
 
-no apis
+
+
+<strong>Other</strong>
+
+- Node.js
 <br>
     
 ## Collaborators <a id="collaborators"></a>
     
-me
+
     
 ## License <a id="license"></a>
 
