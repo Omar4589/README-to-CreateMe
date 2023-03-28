@@ -25,7 +25,7 @@ To install this project, first clone this repository to your local machine. then
 
 ## Usage <a id="usage"></a>
 
-To use this project, navigate to the root directory of the projet in your terminal and run the following command: `node index.js` <br> This will start the command line interface where you can input the necessary information to generate the README file.
+To use this project, navigate to the root directory of the project in your terminal and run the following command: `node index.js` <br> This will start the command line interface where you can input the necessary information to generate the README file. The generated README file replaces the existing README file in the repository directory.
 
 ## Contributions <a id="contributions"></a>
 
