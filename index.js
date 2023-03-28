@@ -138,7 +138,7 @@ ${response.description}<br>
 - [Contributions](#contributions)
 - [Tests](#tests)
 - [Questions](#questions)
-- [Tool URL](#tool-url)
+- [Tool URL](#toolurl)
 - [Technologies](#technologies)
 - [Collaborators](#collaborators)
 - [License](#license)
@@ -161,7 +161,11 @@ ${response.tests}
 
 ## Questions <a id="questions"></a>
 
-If you have any questions about this project, please contact the project owner by visiting their GitHub profile at [${response.github}](https://:${response.github}) or by emailing them at [${response.email}](mailto:${response.email}).
+If you have any questions about this project, please contact the project owner by visiting their GitHub profile at [${
+      response.github
+    }](https://:${response.github}) or by emailing them at [${
+      response.email
+    }](mailto:${response.email}).
 
 ## Tool URL <a id="toolurl"></a>
     
