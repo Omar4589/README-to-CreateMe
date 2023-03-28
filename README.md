@@ -5,7 +5,7 @@
 ## Description
 
 <strong>Introducting README to CreateMe!</strong><br>
-This project generates a README file based on user input using the inquirer and fs node modules. The generated README includes the project's title, description, installation instructions, usage information, contributions guidelines, automated tests description, API list, list of collaborators, license and other metadata about the project.<br>
+This project generates a README file based on user input using the inquirer and fs node modules. The generated README includes the project's title, description, installation instructions, usage information, contribution guidelines, automated tests description, API list, list of collaborators, license and other metadata about the project.<br>
     
 ## Table Of Contents
 
@@ -21,11 +21,11 @@ This project generates a README file based on user input using the inquirer and 
 
 ## Installation <a id="installation"></a>
 
-To install this project, first clone this repository to your local machine. Then, navigate to the root directory of the project in your terminal and run the following command to install the required dependencies: `npm install`
+To install this project, first clone this repository to your local machine. then, navigate to the root directory of the project in your terminal and run the following command to install the required dependencies: `npm install`
 
 ## Usage <a id="usage"></a>
 
-To use this project, navigate to the root directory of the project in your terminal and run the following command: `node index.js` <br> This will start the command line interface where you can input the necessary information to generate the README file.
+To use this project, navigate to the root directory of the projet in your terminal and run the following command: `node index.js` <br> This will start the command line interface where you can input the necessary information to generate the README file.
 
 ## Contributions <a id="contributions"></a>
 
@@ -33,7 +33,7 @@ To contribute to this project, please fork this repository, make your changes, a
 
 ## Tests <a id="tests"></a>
 
-This project does not have any automated tests included, but you can include testing instructions in the generated README file by filling out the appropriate prompt during the node index.js command.
+This project does not have any automated tests included, but you can include testing instructions in the generated README file by filling out the appropriate prompt during the `node index.js` command.
 
 ## Questions <a id="questions"></a>
 
