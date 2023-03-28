@@ -1,4 +1,4 @@
-# README to CreateMe 
+# README to CreateMe
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/licenses/MIT)
 
@@ -10,7 +10,7 @@ This project generates a README file based on user input using the inquirer and 
 A walkthrough video demonstrating the functionality of the application:
 
 https://drive.google.com/file/d/1z8dQLpJ35rYooP_-XCyZ9SzvnCkevL29/view
-    
+
 ## Table Of Contents
 
 - [Installation](#installation)
@@ -18,7 +18,7 @@ https://drive.google.com/file/d/1z8dQLpJ35rYooP_-XCyZ9SzvnCkevL29/view
 - [Contributions](#contributions)
 - [Tests](#tests)
 - [Questions](#questions)
-- [Tool URL](#tool-url)
+- [Tool URL](#toolurl)
 - [Technologies](#technologies)
 - [Collaborators](#collaborators)
 - [License](#license)
@@ -44,43 +44,38 @@ This project does not have any automated tests included, but you can include tes
 If you have any questions about this project, please contact the project owner by visiting their GitHub profile at [github.com/omar4589](https://:github.com/omar4589) or by emailing them at [omar4589@hotmail.com](mailto:omar4589@hotmail.com).
 
 ## Tool URL <a id="toolurl"></a>
-    
+
 [omar4589.github.io/README-to-CreateMe](https://omar4589.github.io/README-to-CreateMe)
 <br>
 <br>
-    
+
 ## Technologies <a id="technologies"></a>
-    
+
 The following technologies were used to develop README to CreateMe:<br>
 <br>
 <strong>Languages</strong>
-    
+
 - Javascript
-    
+
 <strong>Frameworks</strong>
-    
-- 
-    
+
+-
+
 <strong>Libraries</strong>
-    
+
 - Inquirer
-    
+
 <strong>APIs</strong>
-
-
 
 <strong>Other</strong>
 
 - Node.js
-<br>
-    
-## Collaborators <a id="collaborators"></a>
-    
+  <br>
 
-    
+## Collaborators <a id="collaborators"></a>
+
 ## License <a id="license"></a>
 
 This project is licensed under the MIT License.
 
 MIT License Notice: A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
-   
