@@ -45,7 +45,7 @@ If you have any questions about this project, please contact the project owner b
 
 ## Tool URL <a id="toolurl"></a>
 
-[omar4589.github.io/README-to-CreateMe](https://omar4589.github.io/README-to-CreateMe)
+[github.com/Omar4589/README-to-CreateMe](https://github.com/Omar4589/README-to-CreateMe/)
 <br>
 <br>
 
