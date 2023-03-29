@@ -9,7 +9,7 @@ This project generates a README file based on user input using the inquirer and 
 
 A walkthrough video demonstrating the functionality of the application:
 
-https://drive.google.com/file/d/1z8dQLpJ35rYooP_-XCyZ9SzvnCkevL29/view
+https://drive.google.com/file/d/1zaHK8nm8UELWh2nWawnmcGpfm4VYHamf/view
 
 ## Table Of Contents
 
