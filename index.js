@@ -245,7 +245,7 @@ ${getLicenseNotice(response.license)}
       }
     }
 
-    fs.writeFile("README.md", readMeFile, (err) => {
+    fs.writeFile("./My Generated README/README.md", readMeFile, (err) => {
       if (err) throw err;
       console.log("Success! README file has been generated!");
     });
