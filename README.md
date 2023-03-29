@@ -4,7 +4,7 @@
 
 ## Description
 
-<strong>Introducting README to CreateMe!</strong><br>
+<strong>Introducing README to CreateMe!</strong><br>
 This project generates a README file based on user input using the inquirer and fs node modules. The generated README includes the project's title, description, installation instructions, usage information, contribution guidelines, automated tests description, API list, list of collaborators, license and other metadata about the project.<br>
 
 A walkthrough video demonstrating the functionality of the application:
