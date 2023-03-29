@@ -128,7 +128,8 @@ ${getLicenseBadge(response.license)}
 
 ## Description
 
-<strong>Introducting ${response.title}!</strong><br>
+<strong>Introducing ${response.title}!</strong>
+<br>
 ${response.description}<br>
     
 ## Table Of Contents
