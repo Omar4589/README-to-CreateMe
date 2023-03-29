@@ -25,11 +25,11 @@ https://drive.google.com/file/d/1z8dQLpJ35rYooP_-XCyZ9SzvnCkevL29/view
 
 ## Installation <a id="installation"></a>
 
-To install this project, first clone this repository to your local machine. then, navigate to the root directory of the project in your terminal and run the following command to install the required dependencies: `npm install`
+To install this project, first clone this repository to your local machine. Then, navigate to the root directory of the project in your terminal and run the following command to install the required dependencies: `npm install`
 
 ## Usage <a id="usage"></a>
 
-To use this project, navigate to the root directory of the project in your terminal and run the following command: `node index.js` <br> This will start the command line interface where you can input the necessary information to generate the README file. The generated README file replaces the existing README file in the repository directory.
+To use this project, navigate to the root directory of the project in your terminal and run the following command: `node index.js` <br> This will start the command line interface where you can input the necessary information to generate the README file. The README file will be written to the "My Generated README" folder in the repository directory.
 
 ## Contributions <a id="contributions"></a>
 
